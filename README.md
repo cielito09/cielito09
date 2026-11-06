@@ -1,16 +1,25 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy cielito09
 
-<!--
-**cielito09/cielito09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 ¡Bienvenido/a a mi perfil de GitHub!
 
-Here are some ideas to get you started:
+🌱 Actualmente estoy aprendiendo programación.  
+🚀 Me interesa descubrir nuevas tecnologías y desarrollar proyectos.  
+🤝 Estoy abierto/a a aprender y colaborar en nuevos proyectos.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías que estoy aprendiendo
+- 💻 HTML
+- 🎨 CSS
+- 🐍 Python
+- ⚡ JavaScript
+
+### 📊 Sobre mí
+- 🔭 Estoy trabajando en nuevos proyectos.
+- 🌱 Siempre aprendiendo cosas nuevas.
+- 💡 Me gusta la tecnología y la creatividad.
+- 🎯 Mi objetivo es mejorar mis habilidades de programación.
+
+### 📫 Encuéntrame
+- GitHub: [@cielito09](https://github.com/cielito09)
+
+---
+⭐ ¡Gracias por visitar mi perfil!
